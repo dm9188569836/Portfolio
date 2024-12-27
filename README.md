@@ -5,7 +5,9 @@
 
 ## Мои работы
 [Тест-кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1cuKb3ufYIP-iRpKJHiTSCkBNsbBH9hGHLW75ovdoxiU/edit?usp=sharing)
+
 [Тестирование документации](https://docs.google.com/document/d/1dOm15H3ZT1zrl1r6nP7_Muf99eFStWIDj5WcW1V68Jg/edit?usp=sharing)
+
 [Коллекция Postman](https://drive.google.com/file/d/1kIFcj1Q_WJdON1_312txp_vD9Ws0mIvo/view?usp=sharing)
 
 ## Умения и навыки
@@ -39,4 +41,3 @@
 [Телеграмм](@juliyakononenko)
 [Электронная почта](juliya708@rambler.ru)
 
-ПОРТФОЛИО
