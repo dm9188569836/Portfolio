@@ -38,7 +38,8 @@
 
 ## Связь со мной
 
-[Телеграмм](@juliyakononenko)
+[Телеграмм](https://t.me/juliyakononenko)
+
 
 [Электронная почта](juliya708@rambler.ru)
 
