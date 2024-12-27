@@ -40,6 +40,7 @@
 
 [Телеграмм](https://t.me/juliyakononenko)
 
+[Электронная почта](mailto:juliya708@rambler.ru)
 
-[Электронная почта](juliya708@rambler.ru)
+
 
